@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/background.jpg");
+    font-family: 'Cormorant Upright', serif;
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #6ed3cf;
+  }
+  
+  #name{
+    padding-top: 15px;
+    font-family: 'Cormorant Upright', serif;
+  }
+  .paragraph{
+    font-family: 'Cormorant Upright', serif;
+    background-color: #6ed3cf;
+    margin-bottom: 10px;
+    font: 35px;
+    color: black;
+  }
+  
+  .click{
+    width:80px;
+    height:80px;
+  }
+  
+  .start {
+    background-color: #9068be;
+    color: #e1e8f0;
+    font: 25px;
+    margin-bottom: 50px;
+  }
+  .addition{
+    font-size: 30px;
+  }
+  .total{
+    font-size: 30px;
+  }
